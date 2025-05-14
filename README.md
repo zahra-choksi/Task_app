@@ -2,12 +2,12 @@
 # 📋 Task Manager App - Full-Stack CRUD Module in Flutter
 
 ## Overview
-This project is a Task Manager app built in Flutter, showcasing full CRUD functionality with offline-first support, using SQLite for local persistence and RESTful APIs (e.g., Firebase Realtime DB) for remote sync. The app follows clean architecture with the BLoC pattern for state management and ensures responsive UI, robust error handling, and a modern Flutter development approach.
+This project is a Task Manager app built in Flutter, showcasing full CRUD functionality with offline-first support, using SQLite for local persistence and RESTful APIs  for remote sync. The app follows clean architecture with the BLoC pattern for state management and ensures responsive UI, robust error handling, and a modern Flutter development approach.
 
 ## Features
 
 - Add, view, update, and delete tasks 
-- Remote API integration (Firebase or custom API)
+- Remote API integration 
 - Offline support via SQLite
 - Real-time UI updates
 - Optimistic updates with fallback
@@ -84,9 +84,9 @@ Api i have used :- https://68243c0d65ba0580339963f8.mockapi.io/task_app
 
 ##  Developer Info
 
-Name: Zahra Choksi 
-Assignment: Flutter Full Stack CRUD Module
-Submitted:  14  May 2025
+- Name: Zahra Choksi 
+- Assignment: Flutter Full Stack CRUD Module
+- Submitted:  14  May 2025
 
 
 
