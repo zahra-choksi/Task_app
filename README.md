@@ -82,6 +82,17 @@ Api i have used :- https://68243c0d65ba0580339963f8.mockapi.io/task_app
 - Swipe to delete tasks with confirmation.
 - Tasks are automatically synced when online.
 
+## 🔧 Technical Implementation Highlights
+
+- Database: SQLite with sqflite, transactions, indexes
+- API: MockAPI via http package
+- Offline-first: Local DB used when API fails
+- BLoC Pattern: Modular and scalable state handling
+
+## 🔍 Bonus Features Implemented
+
+- search functionality with Flutter's debounce for better performance
+
 ##  Developer Info
 
 - Name: Zahra Choksi 
